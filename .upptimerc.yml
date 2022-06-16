@@ -23,7 +23,9 @@ status-website:
     - title: Status Page
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Jorgel
+      href: https://jorgel.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
