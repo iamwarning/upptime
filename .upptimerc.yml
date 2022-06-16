@@ -30,4 +30,4 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: &copy; 2022 Jorgel, Inc. | All rights reserved | Powered by [Upptime](https://upptime.js.org)
+  footer: © 2022 Jorgel, Inc. | All rights reserved | Powered by [Upptime](https://upptime.js.org)
