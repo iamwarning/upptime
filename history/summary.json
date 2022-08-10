@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jorgel.io",
     "slug": "jorgel-inc",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.60%",
-    "time": 319,
-    "timeDay": 317,
-    "timeWeek": 981,
-    "timeMonth": 454,
-    "timeYear": 319,
+    "uptimeYear": "99.61%",
+    "time": 315,
+    "timeDay": 80,
+    "timeWeek": 979,
+    "timeMonth": 447,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-08-07": 309
     }
