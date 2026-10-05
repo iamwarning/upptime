@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorgel.io.ico",
     "slug": "jorgel-inc",
     "status": "up",
-    "uptime": "61.02%",
+    "uptime": "61.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.36%",
+    "uptimeYear": "41.63%",
     "time": 196,
-    "timeDay": 192,
-    "timeWeek": 219,
-    "timeMonth": 205,
+    "timeDay": 352,
+    "timeWeek": 220,
+    "timeMonth": 210,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2026-05-06": 242,
@@ -228,8 +228,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   }
 ]
